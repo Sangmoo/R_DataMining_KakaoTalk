@@ -1,1 +1,1 @@
-# R_Mining_KakaoTalk
+# R - KakaoTalk Text Mining
