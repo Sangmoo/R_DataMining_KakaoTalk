@@ -16,9 +16,11 @@
 
 * Extraction to KakaoTalk Message Data
 
+  ![Message-Data](https://i.imgur.com/avuDawz.png)
+
 * [Make R Script](https://github.com/Sangmoo/R_DataMining_KakaoTalk/blob/master/R/wordcount_kakao_20170103.R)
 
 
 ### Finish Image
 
-![R-WordCloud](https://i.imgur.com/dboCDVI.jpg)
+  ![R-WordCloud](https://i.imgur.com/dboCDVI.jpg)
