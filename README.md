@@ -2,5 +2,13 @@
 
 
 ### Use
+* [Download R](https://cran.r-project.org/bin/windows/base/) - use Windows
+* [Download RStudio](https://www.rstudio.com/)
+* RStudio Download Package [KoNLP](https://github.com/haven-jeon/KoNLP)
+  * Download KoNLP Package in RStudio
+  -> install.packages("KoNLP")
+  -> library(KoNLP) /* Call KoNLP */
+
+* [Java](https://www.java.com/ko/)
 * Extraction to KakaoTalk Message Data
-* Insert the csv file(Message Data) into the RStudio
+* [Make R Script](https://github.com/Sangmoo/R_DataMining_KakaoTalk/blob/master/R/wordcount_kakao_20170103.R)
