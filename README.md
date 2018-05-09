@@ -21,4 +21,4 @@
 
 ### Finish Image
 
-![R-WordCloud](https://i.imgur.com/rmgHbEE.png)
+![R-WordCloud](https://i.imgur.com/dboCDVI.jpg)
