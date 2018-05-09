@@ -63,4 +63,5 @@ wordcount <- table(filter2_nouns)
 
 write.csv(wordcount, "c:\\R\\Kakaotalk_20170515.csv")
 
+# 시각화, 
 wordcloud2(data = wordcount, minSize = 10)
